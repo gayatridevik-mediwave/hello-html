@@ -1,0 +1,116 @@
+#img{
+top: 13px;
+left: 134px;
+width: 132px;
+height: 64px;
+background: #000000 0% 0% no-repeat padding-box;
+opacity: 0.6;
+}
+
+.button1{
+
+background: #00B158 0% 0% no-repeat padding-box;
+opacity: 1;
+border-radius:17px;
+}
+
+.button{
+
+text-align: left;
+font: normal normal normal 18px/27px Poppins;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+buttonn
+
+#img2{
+top: 90px;
+left: 0px;
+width: 1366px;
+height: 600px;
+background: #000000 0% 0% no-repeat padding-box;
+}
+
+.center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#full{
+  position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.sea{
+    top: 406px;
+    left: 393px;
+    width:280px;
+    height:50px;
+background: #F2F2F2 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #00000029;
+border: 1px solid #707070;
+opacity: 1;
+border-radius:20px;
+}
+
+.container{
+  position: relative;
+  text-align: center;
+  color:black;
+  font-size: 45px;
+  display:flex;
+}
+
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 30%;
+    color: black;
+}
+
+* {box-sizing: border-box;}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+#text{
+    float: right;
+}
+
+#our{
+  text-align: center;
+font: normal normal normal 20px/30px Poppins;
+letter-spacing: 0px;
+color: #00B158;
+opacity: 1;
+}
+
+#view{
+text-align: center;
+font: normal normal 600 38px/57px Poppins;
+letter-spacing: 0px;
+color: #17285A;
+text-transform: uppercase;
+opacity: 1;
+}
